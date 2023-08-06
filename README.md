@@ -29,7 +29,7 @@ Here're some of the project's best features:
 <p>1. Clone the repository</p>
 
 ```
-git clone "https://github.com/Stevenwaheed/Protein_Structure_MongoDB.git"
+git clone "https://github.com/MiraRafat12/Protein_Structure_MongoDB.git"
 ```
 
 <p>2. Install npm modules</p>
@@ -54,5 +54,3 @@ Technologies used in the project:
 *   pymongo
 *   streamlit
 *   streamlit-aggrid
-------------------------------------
-- Website link: https://stevenwaheed-protein-structure-mo-protein-structure-code-9mfz6d.streamlit.app/
